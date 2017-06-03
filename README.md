@@ -1,0 +1,2 @@
+# Structs_login
+使用Structs框架开发JavaEE项目的一个demo，实现简单的登录功能，主要是学习Structs框架的搭建和原理，了解MVC设计模式。
